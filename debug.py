@@ -1,4 +1,4 @@
-variable1 = 2
+variable1 = 4
 variable2 = 3
 print("Hola 1")
 print("Hola 2")

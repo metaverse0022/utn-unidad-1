@@ -1,4 +1,4 @@
-variable_1 = "Pera"
+variable_1 = "Banana"
 variable_2 = variable_1
 
 print(variable_1)
